@@ -3,9 +3,9 @@ Une implémentation Node.js (Express.js) des APIs de Crowdfunding et Gestion des
 
 # Avant d’exécuter le code, installez les dépendances nécessaires :
 
-npm init -y
-npm install express aws-sdk dotenv uuid cors helmet morgan
+- npm init -y
+- npm install express aws-sdk dotenv uuid cors helmet morgan
 
 # Déploiement
-npm install -g serverless
-serverless deploy
+- npm install -g serverless
+- serverless deploy
